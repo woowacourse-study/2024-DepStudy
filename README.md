@@ -43,3 +43,9 @@
 - **스터디 시간:** 매주 월요일 오후 5시.
 - **정리 형식:** 자유 형식 (단, 프로젝트 경험과 연결되어야 함).
 - **Q&A 토론:** GitHub Issues를 통해 질문 및 토론을 진행합니다.
+
+## 팀원
+| ![상돌](https://github.com/user-attachments/assets/9817062f-6213-47fb-94b2-77dbd08b9848) | ![안나](https://github.com/user-attachments/assets/83d147df-9b80-4703-aa66-3632da8e9ba4) | ![테니](https://github.com/user-attachments/assets/cf57b0b3-3a93-4f6e-8bac-8ab65261594c) | ![테바](https://github.com/user-attachments/assets/09151d0f-7f5d-4a3f-9c89-7c8e15abbd14) | ![호기](https://github.com/user-attachments/assets/276888b2-aae7-48bf-8e0e-31b7585f2e51) | ![카키](https://avatars.githubusercontent.com/u/99153215?v=4)
+|:----:|:----:|:----:|:----:|:----:|:----:|
+| **BE** | **BE** | **BE** | **BE** | **BE** | **BE** |
+| [상돌](https://github.com/pricelees) | [안나](https://github.com/Mingyum-Kim) | [테니](https://github.com/ay-eonii) | [테바](https://github.com/ksk0605) | [호기](https://github.com/hoyeonyy) | [카키](https://github.com/hyeon0208) |
