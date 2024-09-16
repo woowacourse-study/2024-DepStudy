@@ -49,3 +49,9 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|
 | **BE** | **BE** | **BE** | **BE** | **BE** | **BE** |
 | [상돌](https://github.com/pricelees) | [안나](https://github.com/Mingyum-Kim) | [테니](https://github.com/ay-eonii) | [테바](https://github.com/ksk0605) | [호기](https://github.com/hoyeonyy) | [카키](https://github.com/hyeon0208) |
+
+
+## 1주차 
+- 네트워크 : 웹 통신의 큰 흐름: https://www.google.com/ 을 접속할 때 일어나는 일
+- 자바 : JVM의 구조와 Java의 실행방식을 설명해주세요.
+- 스프링 : Spring DI/IoC는 어떻게 동작하나요?
