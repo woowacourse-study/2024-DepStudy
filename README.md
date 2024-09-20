@@ -7,7 +7,7 @@
 
 1. **매주 주제 선정:**
     
-    매주 [Backend Interview Question Repository](https://github.com/ksundong/backend-interview-question)에서 **5개의 주제**를 선정합니다. 각 주제는 아래 카테고리에서 하나씩 선택합니다:
+    매주 [Backend Interview Question Repository](https://github.com/ksundong/backend-interview-question)에서 **3개의 주제**를 선정합니다. 각 주제는 아래 카테고리에서 하나씩 선택합니다:
     
     - 네트워크
     - 운영체제
@@ -55,3 +55,8 @@
 - 네트워크 : 웹 통신의 큰 흐름: https://www.google.com/ 을 접속할 때 일어나는 일
 - 자바 : JVM의 구조와 Java의 실행방식을 설명해주세요.
 - 스프링 : Spring DI/IoC는 어떻게 동작하나요?
+
+## 2주차 
+- 운영체제 : 프로세스와 스레드의 차이를 설명해보세요.
+- 데이터베이스 : 데이터베이스에서 인덱스를 사용하는 이유 및 장단점에 대해 설명해주세요.
+- 스프링 : 스프링 Bean의 생성 과정을 설명해주세요.
